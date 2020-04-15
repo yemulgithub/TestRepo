@@ -12,3 +12,5 @@ recursive pull
 branching
 merge/rebase
 git bash
+
+done some changes
